@@ -21,7 +21,8 @@
 ## 环境
 `Windows 10`
 `Python 3.7.5`
-pip 安装库函数
+
+---
 pip install re
 pip install requests
 pip install math
