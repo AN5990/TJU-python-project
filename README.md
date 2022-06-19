@@ -20,8 +20,12 @@
 ## 环境
 `Windows 10`
 `Python 3.7.5`
-pip 安装库函数
-
+pip install re
+pip install requests
+pip install math
+pip install turtle
+pip install time
+pip install random
 ---
 
 ## 运行
